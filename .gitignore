@@ -1,3 +1,10 @@
+# VS Code Settings
+.vscode
+.idea
+.pytest_cache
+.tox
+venv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
